@@ -77,6 +77,9 @@ h1, h2, h3, h4, h5 {
 	display: inline-block;
 	
 }
+.navBar1 a:hover{
+	color: purple;
+}
 .topDiv1 img{
 	padding-left: 25%;
 	padding-top: 10px;
@@ -116,6 +119,7 @@ h1, h2, h3, h4, h5 {
 .sectionMain3{
 	border-top: 1pt solid black;
 	border-bottom: 1pt solid black;
+	padding-top: 10px;
 }
 .box {
 	display: inline-block;
@@ -149,8 +153,8 @@ h1, h2, h3, h4, h5 {
 }
 footer {
 	padding-top: 20px;
+	padding-left: 30px;
 }
 #Copyright {
 	text-align: center;
 }
-/*Project Complete*/
