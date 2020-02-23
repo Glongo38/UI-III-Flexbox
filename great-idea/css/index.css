@@ -72,8 +72,8 @@ h1, h2, h3, h4, h5 {
 .navBar1 a{
 	color:pink;
 	text-decoration: none;
-	padding-left:30px;
-	padding-right: 30px;
+	padding-left:40px;
+	padding-right: 20px;
 	display: inline-block;
 	
 }
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5 {
 	color: purple;
 }
 .topDiv1 img{
-	padding-left: 25%;
+	padding-left: 20%;
 	padding-top: 10px;
 }
 .middleContainer {
@@ -170,5 +170,20 @@ footer {
 .centerContainerServices {
 	display: flex;
 	justify-content: center;
-	
+	align-items: center;
+	flex-wrap: wrap;
+}
+.box_s {
+	width: 500px;
+	height: 300px;
+	margin: 10px;
+	border: 1pt solid black;
+	padding: 30px;
+}
+.box1-s {
+	border-bottom: 1pt solid black;
+	width: 900px;
+	margin-left: 10%;
+	padding-bottom: 20px;
+	padding-left: 20px;
 }
