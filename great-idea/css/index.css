@@ -166,6 +166,7 @@ footer {
 .bodyContainerServices {
 	margin-left: 40px;
 	margin-right: 40px;
+	padding-top: 30px;
 }
 .centerContainerServices {
 	display: flex;
