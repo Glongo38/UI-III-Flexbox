@@ -162,3 +162,13 @@ footer {
 #Copyright {
 	text-align: center;
 }
+/*CSS Services Page only*/
+.bodyContainerServices {
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.centerContainerServices {
+	display: flex;
+	justify-content: center;
+	
+}
